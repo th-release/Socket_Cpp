@@ -1,0 +1,2 @@
+﻿  ClientSocket.cpp
+C:\Users\최태혁\Desktop\ClientSocket\ClientSocket\ClientSocket.cpp(21,26): error C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
